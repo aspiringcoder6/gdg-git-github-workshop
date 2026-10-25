@@ -1,0 +1,24 @@
+# Local secrets; keep the safe example file.
+.env
+.env.*
+!.env.example
+
+# Recreated local environments and Python cache.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Generated run output.
+outputs/
+results/
+logs/
+*.log
+
+# Editor and operating-system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
