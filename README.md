@@ -1,8 +1,7 @@
 # Git & GitHub Workshop
 
-Repo nhỏ để luyện branch, commit, Pull Request và đọc cấu hình Python.
-Chương trình chỉ in cấu hình hiệu lực; không tải model, không train thật,
-không cần dataset, GPU hoặc API key.
+Demo repo để luyện tập các câu lệnh github và cách đọc repo.
+Chỉ là demo thôi, không có dataset hay gì để chạy đâu
 
 ## Yêu cầu
 
